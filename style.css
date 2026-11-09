@@ -1,0 +1,21 @@
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;color:#4A2B5C;line-height:1.6;background:linear-gradient(180deg,#F6EAF6 0%,#FBEFEA 55%,#FFF7F0 100%);min-height:100vh}
+main{max-width:720px;margin:0 auto;padding:40px 22px 64px}
+header{margin-bottom:28px}
+.logo{font-family:"Brush Script MT","Snell Roundhand",cursive;font-size:38px;color:#8E328E;text-decoration:none;line-height:1.2}
+nav{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+nav a{font-size:14px;font-weight:600;padding:5px 13px;border-radius:999px;background:#fff;border:1px solid #EBD6EA;color:#8E328E;text-decoration:none}
+nav a[aria-current]{background:#8E328E;color:#fff;border-color:#8E328E}
+h1{font-size:30px;line-height:1.2;margin:8px 0 6px}
+h2{font-size:20px;margin:30px 0 8px}
+p,li{font-size:16.5px}
+p+p{margin-top:10px}
+ul{margin:8px 0 0 22px}
+li+li{margin-top:6px}
+.card{background:#FFFFFFC8;border:1px solid #fff;border-radius:24px;padding:22px 24px;box-shadow:0 18px 40px -24px #7A4A9A55;margin-top:18px}
+.muted{color:#8A6C99;font-size:14px}
+.lead{font-size:19px;color:#6B4C7C}
+a{color:#8E328E}
+.badges{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+.badges span{font-size:13.5px;font-weight:600;padding:4px 12px;border-radius:999px;background:#fff;border:1px solid #EBD6EA;color:#8A6C99}
+footer{margin-top:40px;font-size:13px;color:#9A7FA8}
