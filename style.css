@@ -19,3 +19,5 @@ a{color:#8E328E}
 .badges{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
 .badges span{font-size:13.5px;font-weight:600;padding:4px 12px;border-radius:999px;background:#fff;border:1px solid #EBD6EA;color:#8A6C99}
 footer{margin-top:40px;font-size:13px;color:#9A7FA8}
+h3{font-size:17px;margin:20px 0 4px}
+ul+p{margin-top:10px}
